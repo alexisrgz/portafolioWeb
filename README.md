@@ -6,7 +6,7 @@ Este es mi portafolio web personal donde presento algunos de los proyectos que h
 
 Puedes visitar mi portafolio aquí:
 
- https://alexisrgz.github.io/portafolioWeb/
+ https://alexisrgzs.vercel.app/
 
 ## Acerca del Proyecto
 
