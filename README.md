@@ -34,4 +34,3 @@ El sitio incluye secciones como:
 - Soporte para múltiples idiomas
 - Diseño limpio y moderno
 
-## 📂 Estructura del Proyecto
